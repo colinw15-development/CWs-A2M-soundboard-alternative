@@ -56,16 +56,16 @@ This project is shared for **review and feedback purposes only**. See the licens
 
 Please report bugs and send feedback to help improve this project!
 
-## 📄 License
+## License (important!!!)
 
 This project is provided under a **Restricted License**. See the [LICENSE](LICENSE) file for complete details.
 
-**TL;DR:**
-- ✅ Review, test, and provide feedback
-- ❌ No redistribution, modification, or commercial use without explicit permission
+Basically:
+- Review, test, and provide feedback
+- No redistribution, modification, or commercial use without explicit permission
 
 ---
 
-Built with **Electron + npm**
+Built with **Electron and npm**
 
 Questions or feedback? Open an issue!
