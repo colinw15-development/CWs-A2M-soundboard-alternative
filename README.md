@@ -26,18 +26,23 @@ A cross-platform audio routing application that lets you upload audio files and 
 - **VB-Cable** - Free virtual audio cable for Windows
   - Download: https://vb-audio.com/Cable/
 
-## Installation
+## Audio Output Installation
 
 ### macOS
-1. Download `CW.Audio.to.Mic.0.0.2.zip` releases page
+1. Download `CW.Audio.to.Mic.x.x.x.zip` releases page
 2. Extract the zip file
 3. Open the `.app` file
 4. Follow the in-app Help guide to set up BlackHole 2ch
 
 ### Windows
-1. Download `CW.Audio.to.Mic.Setup.0.0.2.exe` from the releases page
+1. Download `CW.Audio.to.Mic.Setup.x.x.x.exe` from the releases page
 2. Run the installer
 3. Follow the in-app Help guide to set up VB-Cable
+
+## Releases
+
+To view all the **versions** of my Audio To Mic router
+check the [releases](RELEASES)
 
 ## Usage
 
