@@ -42,7 +42,7 @@ A cross-platform audio routing application that lets you upload audio files and 
 ## Releases
 
 To view all the **versions** of my Audio To Mic router
-check the [releases](RELEASES)
+check the [releases](https://github.com/colinw15-development/CWs-A2M-soundboard-alternative/tags)
 
 ## Usage
 
